@@ -1,0 +1,27 @@
+<menu>
+	<menuItem>
+		<name>home</name>
+		<link> ./xml/inicio.xml </link>
+	</menuItem>
+
+	<menuItem>
+		<name>Redes neuronales</name>
+		<link> ./xml/ann.xml </link>
+	</menuItem>
+
+	<menuItem>
+		<name> Descargas </name>
+		<link> ./xml/descargas.xml </link>
+	</menuItem>
+
+	<menuItem>
+		<name> dfiuasodas </name>
+		<link> ./xml/descargas.xml </link>
+	</menuItem>
+
+	<menuItem>
+		<name> dfiuasodas </name>
+		<link> ./xml/descargas.xml </link>
+	</menuItem>
+
+</menu>

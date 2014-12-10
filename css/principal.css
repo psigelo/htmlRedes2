@@ -1,0 +1,53 @@
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+} 
+
+li {
+	display: inline;
+}
+
+#listaMenu a {
+	padding: 0 30px;
+	margin-right:1px; /* It specifies the distance between each tab */
+	background:#F7F7F7;
+	text-decoration:none;
+	font: normal 16px Arial;
+	line-height: 24px;
+	border:1px solid #CAD0DB;
+	border-bottom:1px solid #CAD0DB;
+	color:#666;
+	vertical-align:top;/*ChangeSet#2*/
+	text-decoration:none;
+}
+
+#listaMenu a:hover {
+	background:#E9ECF0;
+	line-height: 25px;
+	color:#000;
+}
+
+.isSelected{
+	background:#E9ECF0;
+	line-height: 25px;
+	color:#000;
+}
+
+#idMenu {
+	display: block;
+	margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#desarrollo {
+	margin-top: 20px;
+	background-color: #CAD0DB;
+	border:1px solid #222222;
+	border-bottom:1px solid #222222;
+	width:700px;
+	margin-left: auto;
+    margin-right: auto;
+    color:#904383;
+}
